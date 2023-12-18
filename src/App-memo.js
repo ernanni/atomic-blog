@@ -1,3 +1,4 @@
+// Use this file to test a deeper use of useMemo and useCallback
 import { memo, useCallback, useEffect, useMemo, useState } from 'react';
 import { faker } from '@faker-js/faker';
 
